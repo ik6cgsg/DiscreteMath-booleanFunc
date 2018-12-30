@@ -1,0 +1,5 @@
+bin/
+*.zip
+*.rar
+.git*
+!.gitignore
